@@ -1,4 +1,4 @@
-# s3_trigger_with_lambda
+# s3_trigger_with_lambda and reporting into CloudWatch
 Using an Amazon S3 trigger to invoke a Lambda function
 
 So, we Basically are using an S3 trigger to invoke a Lambda Function which outputs the metadata(type of file) every time a file is uploaded into S3 Bucket
